@@ -77,7 +77,7 @@ public class Dados extends javax.swing.JFrame {
         });
         getContentPane().add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 250, 70, -1));
 
-        jLabel2.setBackground(new java.awt.Color(255, 51, 102));
+        jLabel2.setBackground(new java.awt.Color(102, 153, 255));
         jLabel2.setOpaque(true);
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 480, 330));
 
