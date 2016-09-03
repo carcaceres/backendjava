@@ -65,7 +65,6 @@ public class Dados extends javax.swing.JFrame {
         getContentPane().add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(200, 250, -1, -1));
 
         jLabel1.setFont(new java.awt.Font("Tahoma", 0, 36)); // NOI18N
-        jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setText("TIRAR DADOS");
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(120, 20, -1, -1));
 
@@ -77,7 +76,7 @@ public class Dados extends javax.swing.JFrame {
         });
         getContentPane().add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(280, 250, 70, -1));
 
-        jLabel2.setBackground(new java.awt.Color(102, 153, 255));
+        jLabel2.setBackground(new java.awt.Color(255, 255, 204));
         jLabel2.setOpaque(true);
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 480, 330));
 
